@@ -1,4 +1,5 @@
 #!/bin/bash
 
 # Copy Vim configuration file to this directory.
-cp ~/.vim/vimrc vim/vimrc
+cp ~/.vimrc vim/vimrc
+cp ~/.vim/vundle-plugins.vim vim/
