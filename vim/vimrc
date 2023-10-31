@@ -1,5 +1,6 @@
 source ~/.vim/vundle-plugins.vim
 
+syntax on
 set number relativenumber
 set mouse=a
 set shiftwidth=4
